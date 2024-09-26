@@ -1,0 +1,10 @@
+C:\dev\todo-api\src\main\java\com\example\todoapi\controller\TaskController.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\service\TaskService.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\exception\GlobalExceptionHandler.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\validation\PriorityValidator.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\TodoApiApplication.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\validation\ValidPriority.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\repository\TaskRepository.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\exception\BadRequestException.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\model\Task.java
+C:\dev\todo-api\src\main\java\com\example\todoapi\config\SwaggerConfig.java

@@ -1,0 +1,10 @@
+com\example\todoapi\service\TaskService.class
+com\example\todoapi\validation\PriorityValidator.class
+com\example\todoapi\validation\ValidPriority.class
+com\example\todoapi\controller\TaskController.class
+com\example\todoapi\TodoApiApplication.class
+com\example\todoapi\exception\BadRequestException.class
+com\example\todoapi\exception\GlobalExceptionHandler.class
+com\example\todoapi\repository\TaskRepository.class
+com\example\todoapi\model\Task.class
+com\example\todoapi\config\SwaggerConfig.class
