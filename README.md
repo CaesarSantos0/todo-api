@@ -8,7 +8,7 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot** e **PostgreSQL*
 
 As seguintes tecnologias foram utilizadas para o desenvolvimento deste projeto:
 
-- **Java 17**: Linguagem de programação utilizada para implementar a API.
+- **Java 22**: Linguagem de programação utilizada para implementar a API.
 - **Spring Boot 3.3.3**: Framework para simplificar a criação de aplicativos Java, especialmente APIs RESTful.
 - **PostgreSQL**: Banco de dados relacional utilizado para armazenar as informações das tarefas.
 - **Spring Data JPA**: Framework para facilitar o acesso aos dados do banco, mapeando entidades diretamente para o banco de dados.
